@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ghost</string>
+    <string name="about1">Toast will not appear when checking off \"Show notification \" on App info.</string>
+    <string name="app_info">App info</string>
+    <string name="show_toast">Show Toast</string>
+
+    <string name="about2">Ghost is library based on toast that not dependent on \"Show notification\" setting.</string>
+    <string name="show_ghost">Show Ghost</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat">
+        <item name="ghostFrameBackground">@android:drawable/toast_frame</item>
+    </style>
+
+</resources>

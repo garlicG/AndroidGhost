@@ -1,0 +1,8 @@
+<resources>
+    <string name="about1">アプリ情報の「通知を表示」チェックをOFFにするとToastは表示されません。</string>
+    <string name="app_info">アプリ情報</string>
+    <string name="show_toast">Show Toast</string>
+
+    <string name="about2">Ghostは「通知を表示」チェックをOFFにしても表示されるようにしたToastベースのライブラリです。</string>
+    <string name="show_ghost">Show Ghost</string>
+</resources>
