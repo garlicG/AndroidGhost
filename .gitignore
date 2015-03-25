@@ -20,3 +20,4 @@ classes
 obj
 
 .DS_Store
+.gradle/2.2.1/
